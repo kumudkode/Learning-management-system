@@ -38,5 +38,5 @@
     ".next/types/**/*.ts",
     "**/*.ts",
     "**/*.tsx"
-  ]
+, "src/components/assessment/AssignmentSubmission.jsx", "src/components/assessment/QuizPlayer.jsx", "src/components/media/VideoPlayer.jsx", "src/components/courses/ModuleAccordion.jsx", "src/components/courses/ProgressTracker.jsx", "src/app/courses/[courseId]/modules/page.jsx", "src/app/courses/[courseId]/CourseCard.jsx"  ]
 }
